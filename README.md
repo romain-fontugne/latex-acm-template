@@ -1,2 +1,2 @@
-# Latex Template for SIGCOMM 2018
+# Latex Template for CoNEXT 2018
 
